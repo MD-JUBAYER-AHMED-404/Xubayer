@@ -5,14 +5,15 @@
     "notification": true,
     "approval": true,
     "premium": false,
-    "BOTNAME": "",
+    "BOTNAME": "〲 𝙍𝘼𝙉𝙂𝙀𝙍𝙎   ╰‿╯",
     "BOTOWNER": "",
-    "PREFIX": "!",
+    "PREFIX": "/",
     "OPERATOR": [
         ""
     ],
     "ADMINBOT": [
-        ""
+        "61573052122735",
+        "",
     ],
     "disabledcmds": [],
     "disabledevents": [],
