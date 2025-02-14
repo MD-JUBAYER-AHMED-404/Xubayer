@@ -1,20 +1,29 @@
 {
-    "author": "ryukoAndCCPROJECTS",
-    "developermode": false,
-    "language": "en",
-    "notification": true,
-    "approval": true,
-    "premium": false,
-    "BOTNAME": " 𝙍𝘼𝙉𝙂𝙀𝙍𝙎   ╰‿╯",
-    "BOTOWNER": "",
-    "PREFIX": "/",
-    "OPERATOR": [
-        ""
-    ],
-    "ADMINBOT": [
-        "61573052122735",
-    ],
-    "disabledcmds": [],
-    "disabledevents": [],
-    "note": "make sure that the bot name you entered is all lowercase"
+  "author": "Nayan",
+  "autoRestart": true,
+  "accpetPending": false,
+  "developermode": false,
+  "language": "en",
+  "notification": false,
+  "approval": false,
+  "saveState": true,
+  "banMsg": false,
+  "adminOnlyMsg": false,
+  "BOTNAME": "X3Z",
+  "PREFIX": "/",
+  "OPERATOR": [
+    "61573052122735",
+    ""
+  ],
+  "ADMINBOT": [
+    "61573052122735",
+    ""
+  ],
+  "OWNER": ["61573052122735"], 
+  "APPROVED": [],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": "dont cng author name and owner uid. otherwise bot not working",
+  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
 }
